@@ -1,14 +1,1 @@
-[
-    {
-        "cduapi": "http: //www.baidu.com",
-        "cduh5": "http: //www.baidu.com"
-    },
-    {
-        "cduapi": "http: //www.google.com",
-        "cduh5": "http: //www.google.com"
-    },
-    {
-        "cduapi": "http: //47.89.233.2: 8090",
-        "cduh5": "http: //47.89.233.2: 8092"
-    }
-]
+WwogICAgewogICAgICAgICJjZHVhcGkiOiAiaHR0cDogLy93d3cuYmFpZHUuY29tIiwKICAgICAgICAiY2R1aDUiOiAiaHR0cDogLy93d3cuYmFpZHUuY29tIgogICAgfSwKICAgIHsKICAgICAgICAiY2R1YXBpIjogImh0dHA6IC8vd3d3Lmdvb2dsZS5jb20iLAogICAgICAgICJjZHVoNSI6ICJodHRwOiAvL3d3dy5nb29nbGUuY29tIgogICAgfSwKICAgIHsKICAgICAgICAiY2R1YXBpIjogImh0dHA6IC8vNDcuODkuMjMzLjI6IDgwOTAiLAogICAgICAgICJjZHVoNSI6ICJodHRwOiAvLzQ3Ljg5LjIzMy4yOiA4MDkyIgogICAgfQpdAA==
