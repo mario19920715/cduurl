@@ -1,1 +1,14 @@
-["http://47.89.233.2:8090"]
+[
+    {
+        "cduapi": "http: //www.baidu.com",
+        "cduh5": "http: //www.baidu.com"
+    },
+    {
+        "cduapi": "http: //www.google.com",
+        "cduh5": "http: //www.google.com"
+    },
+    {
+        "cduapi": "http: //47.89.233.2: 8090",
+        "cduh5": "http: //47.89.233.2: 8092"
+    }
+]
